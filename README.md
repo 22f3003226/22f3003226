@@ -134,15 +134,10 @@ Regression pipeline for predicting cinema attendance. The more useful work was i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
 ## 📊 Contribution Activity
 
-Active contributor across ML, backend, and data engineering projects. Consistent deployment and iteration across deployed systems at production scale.
+![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge)&nbsp;
+![Repositories](https://img.shields.io/badge/Open%20Source-Multiple-blue?style=for-the-badge)&nbsp;
+![Focus](https://img.shields.io/badge/Focus-ML%20%2F%20AI%20Engineering-orange?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=22f3003226&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=22f3003226&theme=dark&hide_border=true)
-
-</div>
+Consistent shipping across production ML systems, backend infrastructure, and data pipelines.
