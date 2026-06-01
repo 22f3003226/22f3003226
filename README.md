@@ -39,7 +39,7 @@ Third-year at IIT Madras. The projects here aren't demos — they're shipped. Ci
 
 <!-- REPLACE # above with your CivicSync GitHub repo URL -->
 
-AI-powered Q&A and summarization tool for Indian parliamentary legislation. Routes 23,000+ documents through a dual-model Claude pipeline — Haiku handles classification and routing, Sonnet handles synthesis — backed by hybrid BM25 + Voyage AI retrieval. Hallucination control is deterministic: every response is grounded in retrieved document chunks, not model memory. That distinction matters when the source material is legal text.
+AI-powered Q&A and summarization tool for Indian parliamentary legislation. Routes 23,000+ documents through a dual-model Claude pipeline — Haiku handles classification and routing, Sonnet handles synthesis — backed by hybrid BM25 + Voyage AI retrieval. Hallucination control is deterministic: every response is grounded in retrieved document chunks, not model memory. That distinction matters when the source material is legal text. Ranked #1 nationally.
 
 ![Claude API](https://img.shields.io/badge/Claude%20API%20(Haiku%20+%20Sonnet)-CC785C?style=flat)&nbsp;
 ![Voyage AI](https://img.shields.io/badge/Voyage%20AI-7C3AED?style=flat)&nbsp;
@@ -104,17 +104,28 @@ Regression pipeline for predicting cinema attendance. The more useful work was i
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
-**Backend & APIs**
+**Web & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
-**Data & Deployment**
+**Data & Databases**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+**Infrastructure & Deployment**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)&nbsp;
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)&nbsp;
 ![HF Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?logo=huggingface&logoColor=black)
